@@ -1,7 +1,8 @@
-# PHISH
-PHages In SearcHsra  
+# PHISH -- PHages In SearcHsra  
+Written by Bryan D. Merrill  
 
-This file describes how to use SearchSRA (https://www.searchsra.org/) to map 100,000 reads from each of >100,000 different metagenomes onto a sequence of interest to determine where the query can be found in the environment. SearchSRA runs in two modes: nucleotide mode (Search-SRA), and protein mode (Translated-DNA-Search).  
+## Introduction:  
+This file describes how to use SearchSRA (https://www.searchsra.org/) to map 100,000 reads from each of >100,000 different metagenomes onto a sequence of interest to determine where the query can be found in the environment. SearchSRA runs in two modes: nucleotide mode (Search-SRA), and protein mode (Translated-DNA-Search). This document will focus primarily on protein mode (Translated-DNA-Search).
 
 ## Software prerequisites:  
 * Internet browser  
